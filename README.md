@@ -27,6 +27,7 @@
 <a href="https://www.mysql.com/" target="_blank"><img alt="MySQL" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"></a>
 <a href="https://learn.microsoft.com/dotnet/csharp/" target="_blank"><img alt="C#" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"></a>
 <a href="https://learn.microsoft.com/cpp/cpp/" target="_blank"><img alt="C++" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"></a>
+<a href="https://dotnet.microsoft.com/pt-br/" target="_blank"><img alt="C#" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg"></a>
 <a href="https://www.arduino.cc/" target="_blank"><img alt="Arduino" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"></a>
 <a href="https://git-scm.com/" target="_blank"><img alt="Git" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></a>
 <a href="https://code.visualstudio.com/" target="_blank"><img alt="VSCode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height='42px'/></a>
